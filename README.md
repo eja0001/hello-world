@@ -1,4 +1,2 @@
 # hello-world
-first trial
-
-this is first attempt to make changes
+this is second changes
